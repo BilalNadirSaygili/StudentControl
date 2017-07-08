@@ -10,7 +10,7 @@ ulaþýlýp ulaþýlmadýðý öðrenilir .
 
 -Veliler çocuklarýnýn çalýþmasýný takip etmek için kullanabilir 
 
--  Android Tablet ya da telefonunuza yüklemek için   --->     https://drive.google.com/open?id=0B_eXBzlQ0wOtMHJvVGIyV3FKclk  <---  bu linkten 
+-  Android Tablet ya da telefonunuza yüklemek için   --->   https://drive.google.com/open?id=0B_eXBzlQ0wOtU0JHeG05NWFZMjQ    <---  bu linkten 
 
 apk dosyasýný indirebilirsiniz . 
 
